@@ -15,10 +15,10 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/Ela1650/Infinite-scroll-photo-gallery.git
 
 2. **Navigate to the project directory:**
-    cd your-repository-name
+    cd Infinite-scroll-photo-gallery
 
 3. **Install dependencies:**
     npm install
@@ -35,7 +35,7 @@ The application displays images fetched from Unsplash. Each image is accompanied
 ## Features
 
 * Responsive design for optimal viewing on different devices.
-* Displays a list of images with associated photographer          information.
+* Displays a list of images with associated photographer information.
 * Utilizes Font Awesome for a visually appealing camera icon.
 
 ## Advanced Features
